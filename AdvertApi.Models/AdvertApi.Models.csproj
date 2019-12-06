@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <Authors>Sergey R.</Authors>
+    <Company>None</Company>
+    <Product>Web Advert Microservices</Product>
+    <PackageProjectUrl>https://github.com/SergeyRaspopov/WebAdvert.AdvertApi</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/SergeyRaspopov/WebAdvert.AdvertApi.git</RepositoryUrl>
+    <PackageId>SergeyR.AdvertApi.Models</PackageId>
+  </PropertyGroup>
+
+</Project>
